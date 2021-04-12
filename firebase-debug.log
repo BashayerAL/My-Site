@@ -1,0 +1,13 @@
+[debug] [2021-04-12T07:56:11.210Z] ----------------------------------------------------------------------
+[debug] [2021-04-12T07:56:11.212Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\beesh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2021-04-12T07:56:11.212Z] CLI Version:   9.9.0
+[debug] [2021-04-12T07:56:11.212Z] Platform:      win32
+[debug] [2021-04-12T07:56:11.213Z] Node Version:  v14.15.4
+[debug] [2021-04-12T07:56:11.213Z] Time:          Mon Apr 12 2021 10:56:11 GMT+0300 (Arabian Standard Time)
+[debug] [2021-04-12T07:56:11.214Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-12T07:56:11.221Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-12T07:56:11.221Z] > authorizing via signed-in user (beesh54n@gmail.com)
+[debug] [2021-04-12T07:56:11.221Z] [iam] checking project developer-bashayer for permissions ["firebase.projects.get"]
+[debug] [2021-04-12T07:56:11.223Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/developer-bashayer:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
